@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6bc3955143283434093c5fa343993f90, type: 3}
+  m_Name: Bob
+  m_EditorClassIdentifier: 
+  name: Bob
+  dialogue:
+  - Hi There
+  - Nice to meet you! my name is Bob!
+  - you should see the captain hes steering the ship!
+  - Be careful though if he finds you snooping he'll tear you a new one!
+  playerDialogue:
+  - hello there! im Willis
+  - Its nice to meet you Bob!
+  - Okay!
