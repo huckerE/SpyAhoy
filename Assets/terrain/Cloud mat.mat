@@ -41,8 +41,8 @@ Material:
     - _BUILTIN_QueueControl: 0
     - _BUILTIN_QueueOffset: 0
     - _Cloud_density: 4
-    - _Cloud_size: 35.27
-    - _Color_alpha: 8.4
+    - _Cloud_size: 87.83
+    - _Color_alpha: 3.26
     m_Colors:
     - _Cloud_speed: {r: 0.01, g: 0, b: 0, a: 0}
     - _Color: {r: 1, g: 1, b: 1, a: 0}
