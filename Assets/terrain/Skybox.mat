@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Skybox
-  m_Shader: {fileID: 106, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: 82c0ab79520a11f4b90261de165d08a4, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
@@ -74,6 +74,13 @@ Material:
     - _Metallic: 0
     - _Mode: 0
     - _OcclusionStrength: 1
+    - _OverheadCloudAltitude: 3000
+    - _OverheadCloudAnimationSpeed: 1000
+    - _OverheadCloudFlowDirectionX: 1
+    - _OverheadCloudFlowDirectionZ: 1
+    - _OverheadCloudRemapMax: 6.73
+    - _OverheadCloudRemapMin: -0.28
+    - _OverheadCloudSize: 1
     - _Parallax: 0.02
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -87,5 +94,6 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _GroundColor: {r: 0.09242612, g: 0.34003, b: 0.6320754, a: 1}
+    - _OverheadCloudColor: {r: 1, g: 1, b: 1, a: 0.5}
     - _SkyTint: {r: 0.9811321, g: 0.9811321, b: 0.9811321, a: 1}
   m_BuildTextureStacks: []
